@@ -14,3 +14,15 @@ I am very fortunate to be advised by [Prof. Chen Ting](https://www.scse.uestc.ed
 You can find my CV here: [Yuanyao Cheng's Curriculum Vitae](https://yuanyaocheng.github.io/yuanyao.github.io/assets/CV_Cheng.pdf).
 
 [Email](mailto:yuanyao_cheng@std.uestc.edu.cn) / [CSDN](https://blog.csdn.net/cyy202101)
+
+
+'---
+permalink: /
+title: "News"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+09/27/24  I'm honored to receive the National Award!
+10/08/22  I'm honored to receive the National Award!
