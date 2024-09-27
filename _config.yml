@@ -27,7 +27,7 @@ author:
   bio              : "The moon will be even fuller tomorrow."
   location         : "Sichuan, China"
   employer         : "UESTC"
-  uri              :  https://yuanyaocheng.github.io
+  uri              :  # https://yuanyaocheng.github.io
   email            : "yuanyao_cheng@std.uestc.edu.cn" 
 
   # Academic websites
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
