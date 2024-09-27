@@ -11,7 +11,7 @@ I'm a fourth year undergraduate student from [School of Information and Communic
 
 I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
-You can find my CV here: [Yuanyao Cheng's Curriculum Vitae](../assets/.pdf).
+You can find my CV here: [Yuanyao Cheng's Curriculum Vitae](../assets/CV_Cheng Yuanyao.pdf).
 
 [Email](mailto:yuanyao_cheng@std.uestc.edu.cn) / [CSDN](https://blog.csdn.net/cyy202101)
 
