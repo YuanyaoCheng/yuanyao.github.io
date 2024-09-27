@@ -16,7 +16,8 @@ You can find my CV here: [Yuanyao Cheng's Curriculum Vitae](https://yuanyaocheng
 [Email](mailto:yuanyao_cheng@std.uestc.edu.cn) / [CSDN](https://blog.csdn.net/cyy202101)
 
 
-** News **
+News
+======
 
 09/27/24  I'm honored to receive the National Award!
 
