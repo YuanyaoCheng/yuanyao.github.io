@@ -21,7 +21,7 @@ News
 
 **09/24**  I was honored to receive the National Award!
 
-**05/24**  I participated in the Ministry of Education's Inaugural Career Planning Competition and won the [national silver award](https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=92387).
+**05/24**  I  won the [national silver award](https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=92387) in the National Career Planning Contest.
 
 **06/23**  I was selected as a [mentor](https://www.sice.uestc.edu.cn/info/1141/12536.htm) in my college to assist first-year students.
 
