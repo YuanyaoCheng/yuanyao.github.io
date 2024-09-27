@@ -20,6 +20,11 @@ News
 ======
 
 09/24  I'm honored to receive the National Award!
+
 05/24  I participated in the Ministry of Education's Inaugural Career Planning Competition and won the [national silver award](https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=92387).
+
 06/23  I was selected as a [mentor](https://www.sice.uestc.edu.cn/info/1141/12536.htm) in my college to assist first-year students.
+
 10/22  I'm honored to receive the National Award!
+
+07/21  I was honored as one of the [top 10 graduates](https://www.jxfls.com/detail/103007) in high school and awarded ￥200,000.
